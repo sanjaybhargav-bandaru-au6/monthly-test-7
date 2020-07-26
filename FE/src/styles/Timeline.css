@@ -1,0 +1,7 @@
+.Timeline {
+  margin: 40px auto 0;
+  max-width: 900px;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
